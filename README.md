@@ -5,6 +5,7 @@ Coding be like Horror
 - ⚡ Student id: 63363522
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 👨‍⚕️ interested in frontend
+- No. 0925599280
 - Expertise 
   * data structure
   * algorithm
