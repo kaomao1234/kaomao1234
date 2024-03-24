@@ -5,7 +5,7 @@
 - My name is: **Boripat Sankaew**
 - I'm currently studying at the Faculty of Engineering.
 - ‍⚕️ I'm interested in frontend.
-- email: boripats63@nu.ac.th , sankaew44@gmail.com
+- Email: boripats63@nu.ac.th , sankaew44@gmail.com
 - Interested in work from home 100%
 
 **My web(No backend)**
