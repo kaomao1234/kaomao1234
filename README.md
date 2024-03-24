@@ -21,9 +21,13 @@
 
 [![Frontend Framework](https://skillicons.dev/icons?i=next,nuxt,vue,react)](https://skillicons.dev)
 
-**Application Devolopment**
+**CSS Framework**
 
-[![Application Devolopment](https://skillicons.dev/icons?i=dart,flutter,kotlin)](https://skillicons.dev)
+[![CSS Framework](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+
+**Application Development**
+
+[![Application Development](https://skillicons.dev/icons?i=dart,flutter,kotlin)](https://skillicons.dev)
 
 **Developer Tech**
 
