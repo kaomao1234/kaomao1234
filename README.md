@@ -4,7 +4,7 @@ Coding be like Horror
 - 😄 My name is: Boripat Sankaew
 - ⚡ Student id: 63363522
 - 🔭 I'm currently studying on Faculty of Engineering.
-- 👨‍⚕️ interested in the backen
+- 👨‍⚕️ interested in frontend
 - Expertise 
   * data structure
   * algorithm
