@@ -25,17 +25,11 @@ Coding be like Horror
 
 * ![React](https://img.shields.io/badge/React-[Your Version]?style=for-the-badge&logo=react&logoColor=61DAFB) (Optional)
 * ![Vue.js](https://img.shields.io/badge/Vue.js-[Your Version]?style=for-the-badge&logo=vue.js&logoColor=41B883) (Optional)
-* ![Angular](https://img.shields.io/badge/Angular-[Your Version]?style=for-the-badge&logo=angular&logoColor=C0232B) (Optional)
 
 **Developer Tech**
-
-**Languages**
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) (https://fontawesome.com/v4/icon/html5)
-- [Python](https://www.python.org/doc/) (https://fontawesome.com/icons/python) (and relevant libraries)
 
 **Tools**
 
 - [Visual Studio Code](https://code.visualstudio.com/) (https://marketplace.visualstudio.com/items?itemName=Janne252.fontawesome-autocomplete)
 - Git (https://git-scm.com/) (https://fontawesome.com/icons/github) (Optional)
-- [npm](https://www.npmjs.com/) or [yarn](https://
+- [npm](https://www.npmjs.com/)
