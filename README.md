@@ -10,9 +10,9 @@ Coding be like Horror
 
 **My web(No backend)**
 
-  https://aplocy-app.vercel.app/ (Mobile only)
-  https://selfolio-app.vercel.app/ (Responsive)
-  https://agriculture-cloned-app.vercel.app/ (Desktop only)
+- https://aplocy-app.vercel.app/ (Mobile only)
+- https://selfolio-app.vercel.app/ (Responsive)
+- https://agriculture-cloned-app.vercel.app/ (Desktop only)
   
 **Programming Languages**
 
