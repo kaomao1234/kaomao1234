@@ -6,6 +6,7 @@ Coding be like Horror
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 👨‍⚕️ interested in frontend
 - No. 0925599280
+- Mail: boripats63@nu.ac.th , sankaew44@gmail.com
 - Expertise 
   * data structure
   * algorithm
