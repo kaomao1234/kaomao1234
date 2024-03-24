@@ -29,8 +29,6 @@
 
 [![Application Development](https://skillicons.dev/icons?i=dart,flutter,kotlin)](https://skillicons.dev)
 
-**Developer Tech**
-
 **Tools**
 
 - [Visual Studio Code](https://code.visualstudio.com/)
