@@ -20,12 +20,7 @@
 * ![C](https://img.shields.io/badge/c?style=for-the-badge&logo=c&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-**Frontend Frameworks**
-
-* ![React](https://img.shields.io/badge/React?style=for-the-badge&logo=react&logoColor=61DAFB)
-* ![Vue.js](https://img.shields.io/badge/Vue.js?style=for-the-badge&logo=vue.js&logoColor=41B83)
-* ![Next.js](https://img.shields.io/badge/Next.js?style=for-the-badge&logo=nextjs&logoColor=000000)
-* ![Nuxt.js](https://img.shields.io/badge/Nuxt.js?style=for-the-badge&logo=nuxtjs&logoColor=00EBCC)
+[![Frontend Framework](https://skillicons.dev/icons?i=next,nuxt,vue,react)](https://skillicons.dev)
 
 **Developer Tech**
 
