@@ -15,8 +15,8 @@
   
 **Programming Languages**
 
-* ![Dart](https://img.shields.io/badge/Dart?style=for-the-badge&logo=Dart&logoColor=white)
-* ![Python](https://img.shields.io/badge/python?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![Dart](https://img.shields.io/badge/Dart-?style=for-the-badge&logo=Dart&logoColor=white)
+* ![Python](https://img.shields.io/badge/python-?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![C](https://img.shields.io/badge/c?style=for-the-badge&logo=c&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=JavaScript&logoColor=white)
 
