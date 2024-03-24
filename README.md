@@ -1,5 +1,4 @@
 # RuntimeHorror
-Coding be like Horror
 
 **About Me**
 
@@ -23,12 +22,14 @@ Coding be like Horror
 
 **Frontend Frameworks**
 
-* ![React](https://img.shields.io/badge/React-[Your Version]?style=for-the-badge&logo=react&logoColor=61DAFB) (Optional)
-* ![Vue.js](https://img.shields.io/badge/Vue.js-[Your Version]?style=for-the-badge&logo=vue.js&logoColor=41B883) (Optional)
+* ![React](https://img.shields.io/badge/React-)(Your Version)?style=for-the-badge&logo=react&logoColor=61DAFB
+* ![Vue.js](https://img.shields.io/badge/Vue.js-)(Your Version)?style=for-the-badge&logo=vue.js&logoColor=41B83
+* ![Next.js](https://img.shields.io/badge/Next.js-)(Your Version)?style=for-the-badge&logo=nextjs&logoColor=000000
+* ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-)(Your Version)?style=for-the-badge&logo=nuxtjs&logoColor=00EBCC
 
 **Developer Tech**
 
 **Tools**
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Android Studio]
+- [Android Studio](https://developer.android.com/studio)
