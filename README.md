@@ -30,6 +30,5 @@ Coding be like Horror
 
 **Tools**
 
-- [Visual Studio Code](https://code.visualstudio.com/) (https://marketplace.visualstudio.com/items?itemName=Janne252.fontawesome-autocomplete)
-- Git (https://git-scm.com/) (https://fontawesome.com/icons/github) (Optional)
-- [npm](https://www.npmjs.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Android Studio]
