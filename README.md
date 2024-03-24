@@ -6,9 +6,10 @@ Coding be like Horror
 -  My name is: **Boripat Sankaew**
 -  I'm currently studying at the Faculty of Engineering.
 - ‍⚕️ I'm interested in frontend development.
-- Mail: 
+- Mail: boripats63@nu.ac.th , sankaew44@gmail.com
 
 **My web(No backend)**
+
   https://aplocy-app.vercel.app/ (Mobile only)
   https://selfolio-app.vercel.app/ (Responsive)
   https://agriculture-cloned-app.vercel.app/ (Desktop only)
