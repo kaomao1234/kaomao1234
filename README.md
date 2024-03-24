@@ -20,6 +20,7 @@
 * ![C](https://img.shields.io/badge/c?style=for-the-badge&logo=c&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=JavaScript&logoColor=white)
 
+**Frontend Framework**
 [![Frontend Framework](https://skillicons.dev/icons?i=next,nuxt,vue,react)](https://skillicons.dev)
 
 **Developer Tech**
