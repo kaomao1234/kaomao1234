@@ -2,10 +2,10 @@
 
 **About Me**
 
--  My name is: **Boripat Sankaew**
--  I'm currently studying at the Faculty of Engineering.
+- My name is: **Boripat Sankaew**
+- I'm currently studying at the Faculty of Engineering.
 - ‍⚕️ I'm interested in frontend development.
-- Mail: boripats63@nu.ac.th , sankaew44@gmail.com
+- email: boripats63@nu.ac.th , sankaew44@gmail.com
 
 **My web(No backend)**
 
@@ -15,11 +15,15 @@
   
 **Programming Languages**
 
-[![Programming Languages](https://skillicons.dev/icons?i=c,python,dart,js,ts)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,python,dart,js,ts,kotlin)](https://skillicons.dev)
 
 **Frontend Framework**
 
 [![Frontend Framework](https://skillicons.dev/icons?i=next,nuxt,vue,react)](https://skillicons.dev)
+
+**Application Devolopment**
+
+[![Application Devolopment](https://skillicons.dev/icons?i=dart,flutter,kotlin)](https://skillicons.dev)
 
 **Developer Tech**
 
