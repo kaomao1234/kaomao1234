@@ -3,9 +3,10 @@
 **About Me**
 
 - My name is: **Boripat Sankaew**
+-  Email: boripats63@nu.ac.th , sankaew44@gmail.com
+-  Phone: +66925599280
 - I'm currently studying at the Faculty of Engineering.
 - ‍⚕️ I'm interested in frontend.
-- Email: boripats63@nu.ac.th , sankaew44@gmail.com
 - Interested in work from home 100%
 
 **My web(No backend)**
