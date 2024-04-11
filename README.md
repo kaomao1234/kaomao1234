@@ -14,6 +14,7 @@
 - https://aplocy-app.vercel.app/ (Mobile only)
 - https://selfolio-app.vercel.app/ (Responsive)
 - https://agriculture-cloned-app.vercel.app/ (Desktop only)
+- https://travellian-app.vercel.app/ (Responsive)
   
 **Programming Languages**
 
