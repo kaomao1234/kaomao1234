@@ -7,7 +7,6 @@
 -  Phone: +66925599280
 - I'm currently studying at the Faculty of Engineering.
 - ‍⚕️ I'm interested in frontend.
-- Interested in work from home 100%
 
 **My web(No backend)**
 
